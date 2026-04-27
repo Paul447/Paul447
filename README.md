@@ -52,7 +52,12 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul447&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul447&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul447&layout=donut&theme=tokyonight&langs_count=8&card_width=500" alt="Most Used Languages"/>
 
 </div>
 
@@ -62,14 +67,15 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 
 </div>
 
+---
+
+> [!IMPORTANT]
+> *"Questioning yourself is the beginning of new discoveries."*
+> 
+> — **Subesh Raj Pandey**
 
 ---
 
 <div align="center">
-<br/>
-  <blockquote>
-    <i>"Questioning yourself is the beginning of new discoveries." - Subesh Raj Pandey</i>
-  </blockquote>
-  <br/>
   <i>Let's connect and build something awesome together!</i>
 </div>
