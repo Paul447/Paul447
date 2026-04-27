@@ -62,8 +62,27 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 
 </div>
 
+---
 
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [HRMS](https://github.com/Paul447/HRMS) | Human Resource Management System | Python |
+| [Network Automation](https://github.com/Paul447/NetworkAutomation) | Automated network configuration & management | Python |
+| [Inventory Management](https://github.com/Paul447/Inventory-Managemant-System) | Full-featured inventory tracking system | Python |
+| [Shuttle Management](https://github.com/Paul447/shuttle_management) | Shuttle bus scheduling & management | Python |
+| [Kool Frontend](https://github.com/Paul447/koolfrontend) | Modern frontend application | TypeScript |
+
+---
 
 <div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+  <br/><br/>
+  <blockquote>
+    <i>"Questioning yourself is the beginning of new discoveries."</i>
+  </blockquote>
+  <br/>
   <i>Let's connect and build something awesome together!</i>
 </div>
