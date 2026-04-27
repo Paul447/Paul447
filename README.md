@@ -1,0 +1,5 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=Paul447&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul447&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=Paul447&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Paul447&theme=radical)
+![Views](https://komarev.com/ghpvc/?username=Paul447&style=flat)
