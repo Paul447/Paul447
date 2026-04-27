@@ -62,11 +62,7 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 
 </div>
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Paul447&theme=tokyonight&column=7&margin-w=8)
-
-</div>
 
 ---
 
