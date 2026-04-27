@@ -77,11 +77,9 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 ---
 
 <div align="center">
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-  <br/><br/>
+<br/>
   <blockquote>
-    <i>"Questioning yourself is the beginning of new discoveries."</i>
+    <i>"Questioning yourself is the beginning of new discoveries." - Subesh Raj Pandey</i>
   </blockquote>
   <br/>
   <i>Let's connect and build something awesome together!</i>
