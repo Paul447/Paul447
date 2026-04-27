@@ -62,14 +62,16 @@ I'm **Subesh Raj Pandey**, a passionate developer from Nepal building robust web
 
 </div>
 
+---
+
+## 💬 Philosophy
+
+> *"Questioning yourself is the beginning of new discoveries."*
+>
+> — **Subesh Raj Pandey**
 
 ---
 
 <div align="center">
-<br/>
-  <blockquote>
-    <i>"Questioning yourself is the beginning of new discoveries." - Subesh Raj Pandey</i>
-  </blockquote>
-  <br/>
   <i>Let's connect and build something awesome together!</i>
 </div>
